@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+Jiangping Huang is currently a postdoctoral research fellow working with Prof. [Gao Cong](https://personal.ntu.edu.sg/gaocong/) at [Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU)](https://www.ntu.edu.sg/scale). Prior to that, he is an assistant professor at [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/). Furthermore, Jiangping received his Ph.D. degree in computer science from [Wuhan University](https://www.whu.edu.cn/) in June 2017, supervised by Prof. [Donghong Ji](https://cse.whu.edu.cn/info/1258/3290.htm).  
+
+Jiangping's research focuses on developing innovative artificial intelligence technologies that can effectively and efficiently utilize user-generated data (including texts, speech and video) to benefit human. Especially, Jiangping concentrates on following five research interests: 
++ Natural Language Processing
++ Information Retrieval & Recommendation
++ Machine Learning
++ Data & Knowledge Engineering
++ Cyberspace Security
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website

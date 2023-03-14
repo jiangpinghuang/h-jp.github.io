@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huang Jiangping's Homepage"
+title                    : "Jiangping's Homepage"
 title_separator          : "-"
-name                     : &name "Huang Jiangping"
+name                     : &name "Jiangping Huang"
 description              : &description "Postdoctoral Researcher@NTU"
 url                      : https://h-jp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huang Jiangping"
+  name             : "Jiangping Huang"
   avatar           : "hjp_github.png"
   bio              : "Postdoctoral Researcher@NTU"
   location         : "Singapore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=IulnddEAAAAJ&hl=zh-CN"
+  email            : "cs-huangjp@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
