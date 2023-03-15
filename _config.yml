@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Jiangping Huang"
   avatar           : "hjp_github.png"
-  bio              : "Postdoctoral Researcher@NTU"
+  bio              : "Postdoctoral Research Fellow@NTU"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IulnddEAAAAJ&hl=zh-CN"
   email            : "cs-huangjp@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
